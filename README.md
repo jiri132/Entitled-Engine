@@ -1,7 +1,7 @@
 ![Entitled Engine Logo] (http://jiri.dscloud.me/GIT_README/EntitledEngine/EE.png) <br>
 
 # Features
-| Features | Entitled 1 |
+| Features |
 | --- | --- |
 | Pixel Renderer | ❌ |
 | Entity Component System | ❌ |
