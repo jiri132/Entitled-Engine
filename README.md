@@ -1,4 +1,4 @@
-![Entitled Engine Logo](http://jiri.dscloud.me/GIT_README/EntitledEngine/EE.png) <br>
+![Entitled Engine Logo](http://jiri.dscloud.me/Non-Active-Websites/GIT_README/EntitledEngine/EE.png) <br>
 
 # Features
 | Features | Entitled Engine |
